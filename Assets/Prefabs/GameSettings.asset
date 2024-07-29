@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35ae04d9daa343329123e6ac4073a5fc, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  LevelSize: {x: 6, y: 8}
+  CellPadding: {x: 0, y: 0}
+  LevelPosition: {x: 0, y: -1.5}
+  BorderCut: 0
+  ByItemScore: 0
+  TimerEnable: 1
+  CellSprite: {fileID: 21300000, guid: 791ae7f693a47e2468a22d12c869f9be, type: 3}
+  EggSprites:
+  - {fileID: 21300000, guid: 830b9df54e0f1ca4180bf98a19d869c0, type: 3}
+  - {fileID: 21300000, guid: 8b30b264b09798f4184b69980f0c9cdc, type: 3}
+  - {fileID: 21300000, guid: a14a504d0db15e2459d070b93a886aa1, type: 3}
+  - {fileID: 21300000, guid: 6314899e4b379e74dbb99727bbfd7333, type: 3}
+  LevelScriptables:
+  - {fileID: 11400000, guid: bb7b731680e8a9042914fb0f657e780c, type: 2}
+  - {fileID: 11400000, guid: 5d68e774476dbba4aab1476c4eb770d5, type: 2}
+  - {fileID: 11400000, guid: a73397e7c0205a84393ea1e73cd0f677, type: 2}
+  - {fileID: 11400000, guid: 0ccdf0ed974307045b67086fde8cf955, type: 2}
+  - {fileID: 11400000, guid: 8769192762d61a341b5a7719e4463ede, type: 2}
+  - {fileID: 11400000, guid: 35721bdd7e737c94ebe238708b8a39bb, type: 2}
+  - {fileID: 11400000, guid: 0d0cb73837901954680a2208af4cd9b2, type: 2}
